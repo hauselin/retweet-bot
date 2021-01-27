@@ -63,9 +63,7 @@ soupsieve==2.1
 toml==0.10.2
 tornado==6.1
 traitlets==5.0.5
-twarc==1.12.1
 tweepy==3.10.0
-twint==2.1.21
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
 urllib3==1.26.2
